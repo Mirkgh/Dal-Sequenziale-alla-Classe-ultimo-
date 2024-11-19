@@ -14,7 +14,7 @@ import java.util.Scanner;
  */
 public class Minuscolo {
     /*creazioni delle variabili: tanti che determina il valore massimo dell'array, parola che ci sarà riempita con quella inserita dall'utente,
-    minuscolo che è l'array dove verrà inserita la parola dell'utente
+    minuscolo che è l'array dove verrà inserita la parola dell'utentee
    */
     private int TANTI = 30;
     private String parola;
